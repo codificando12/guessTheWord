@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.game {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(red, blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-container {
+    display: flex;
+    flex-direction: column;
+    width: 60rem;
+    height: auto;
+    border: 1px solid black;
+}
