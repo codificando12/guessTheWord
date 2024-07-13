@@ -25,7 +25,7 @@ html {
     
 }
 
-.game-instructions {
+.game-instructions, .lifes{
     margin: 2rem;
     font-size: 1.6rem;
     text-align: center;
@@ -39,7 +39,7 @@ html {
     
 }
 
-.game-instructions p {
+.game-instructions p, .lifes {
     margin-top: 1.6rem;
     font-size: 2rem;
     font-weight: 600;
